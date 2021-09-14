@@ -3,7 +3,7 @@ This repository is about Summer Olympics .
 In this , I have given answers to some questions based on the Olympics .
 I have used libraries such as Numpy and pandas.
 My project can read the data from the csv file.
-My project includes some bar graphs as well to make clear understanding of the data.
+My project includes some bar graphs also to make clear understanding of the data.
 
 
 The following are the questions I answered in the repository based on the data.
